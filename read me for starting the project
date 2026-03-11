@@ -1,0 +1,4 @@
+// Clone the project
+// cd backend => npm install => change the DB URL(mongoDB Compass) in .env file => npm run dev
+// cd frontend => cd vite-project => npm install => npm run dev
+// create a new user then use the website
